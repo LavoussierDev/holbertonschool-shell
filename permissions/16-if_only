@@ -1,2 +1,5 @@
 #!/bin/bash
-chown -l vincent hello 
+if [ "$(id -u )" ]; then 
+	echo "guillaume"
+else [chown vincent hello]
+fi 	
