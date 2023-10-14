@@ -1,5 +1,4 @@
 #!/bin/bash
-if [ "$(id -u )" ]; then 
-	echo "guillaume"
-else [chown vincent hello]
+if [ "$(stat -c %U hello)" ="guillaume"]; then
+	chown vincent
 fi 	
