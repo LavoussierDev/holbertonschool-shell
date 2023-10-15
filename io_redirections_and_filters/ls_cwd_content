@@ -1,0 +1,16 @@
+total 56
+drwxrwxr-x 2 ubuntu ubuntu 4096 Oct 14 23:12 .
+drwxrwxr-x 5 ubuntu ubuntu 4096 Oct 14 17:23 ..
+-rwxrw-r-- 1 ubuntu ubuntu   32 Oct 14 17:22 0-hello_world
+-rwxrw-r-- 1 ubuntu ubuntu   28 Oct 14 18:21 1-confused_smiley
+-rwxrw-r-- 1 ubuntu ubuntu   28 Oct 14 18:22 2-hellofile
+-rwxrw-r-- 1 ubuntu ubuntu   39 Oct 14 19:52 3-twofiles
+-rwxrw-r-- 1 ubuntu ubuntu   29 Oct 14 21:14 4-lastlines
+-rwxrw-r-- 1 ubuntu ubuntu   30 Oct 14 21:15 5-firstlines
+-rwxrw-r-- 1 ubuntu ubuntu   46 Oct 14 20:20 6-third_line
+-rwxrw-r-- 1 ubuntu ubuntu   80 Oct 14 23:03 7-file
+-rwxrw-r-- 1 ubuntu ubuntu   36 Oct 14 23:12 8-cwd_state
+-rw-rw-r-- 1 ubuntu ubuntu   30 Oct 14 17:25 README.md
+-rw-rw-r-- 1 ubuntu ubuntu   12 Oct 14 23:05 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 ubuntu ubuntu  801 Oct 14 20:06 iacta
+-rw-rw-r-- 1 ubuntu ubuntu    0 Oct 14 23:13 ls_cwd_content
